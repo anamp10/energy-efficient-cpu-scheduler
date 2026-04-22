@@ -1,0 +1,4 @@
+,Total Energy (J),Avg Wait Time (ms),Avg Turnaround (ms),Tasks Completed
+FCFS,24.42,23.25,30.5,8.0
+Round Robin,22.49,33.5,40.75,8.0
+Priority,21.43,24.75,32.0,8.0
